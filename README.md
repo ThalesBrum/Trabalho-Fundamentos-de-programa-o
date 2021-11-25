@@ -1,1 +1,1 @@
-# Trabalho-Fundamentos-de-programa-o
+# Trabalho-Fundamentos-de-programação
